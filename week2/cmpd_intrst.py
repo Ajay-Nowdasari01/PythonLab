@@ -1,0 +1,6 @@
+p=float(input("Enter Principle amount"))
+t=float(input("Enter Time in Years"))
+r=float(input("Enter Rate of intrest"))
+n=float(input("Number of times interest is compounded per year"))
+compound_intrest=p*(1+r/n)**(n*t)
+print(compound_intrest)
