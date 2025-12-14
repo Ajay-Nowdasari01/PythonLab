@@ -1,6 +1,6 @@
 import math
 
-print("=== Math Module Functions ===\n")
+print(" Math Module Functions \n")
 
 print("1. PI Constant:")
 print(f"   math.pi = {math.pi}")

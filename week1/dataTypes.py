@@ -20,7 +20,7 @@ print(f"Mixed list: {mixed}, type: {type(mixed)}\n")
 tpl = ("Bob", 30, "Engineer")
 print(f"Tuple: {tpl}, type: {type(tpl)}\n")
 
-student = {"name": "ajay" "age": 22, "grade": "A"}
+student = {"name": "ajay", "age": 22, "grade": "A"}
 print(f"student Dictionary: {student}, type: {type(student)}\n")
 
 colors = {"red", "green", "blue"}
